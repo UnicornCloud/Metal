@@ -1,0 +1,9 @@
+[submodule "Ironic"]
+	path = Ironic
+	url = https://github.com/UnicornCloud/Ironic.git
+[submodule "MAAS"]
+	path = MAAS
+	url = https://github.com/UnicornCloud/MAAS.git
+[submodule "Foreman"]
+	path = Foreman
+	url = https://github.com/UnicornCloud/Foreman.git
